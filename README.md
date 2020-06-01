@@ -1,2 +1,2 @@
 # Recycler_images
-Recycler with images
+RecyclerView in android studio having custom item
